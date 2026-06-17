@@ -26,9 +26,6 @@
 - 📈 **[Apple Stock Price Prediction](https://github.com/Mitali273/Apple-stock-price-predection)** — Forecasting Apple's closing stock price using historical data (2012–2019)
 - 📊 **[Customer Churn Prediction](https://github.com/Mitali273/Forage-Virtual-Experience-project)** — BCG X Forage virtual experience predicting customer churn
 
-### 📊 GitHub Stats
-![Mitali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mitali273&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitali273&layout=compact&theme=radical&hide_border=true)
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mitali-aswale)
