@@ -20,11 +20,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 📌 Featured Projects
-- 🩺 **[Diabetic Retinopathy Prediction](https://github.com/Mitali273/Diabetic-Retinopathy-Prediction-)** — ML classification model predicting diabetic retinopathy from clinical data
-- 💬 **[Sentiment Analysis (NLP)](https://github.com/Mitali273/Sentiment-Analysis-NLP-Project-)** — Sentiment model built on scraped e-commerce customer reviews
-- 📈 **[Apple Stock Price Prediction](https://github.com/Mitali273/Apple-stock-price-predection)** — Forecasting Apple's closing stock price using historical data (2012–2019)
-- 📊 **[Customer Churn Prediction](https://github.com/Mitali273/Forage-Virtual-Experience-project)** — BCG X Forage virtual experience predicting customer churn
 
 
 ### 🌐 Connect with Me
